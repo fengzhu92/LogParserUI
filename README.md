@@ -8,6 +8,9 @@ This project is the frontend implementation for the Log Parsing project, built u
 - Includes a reset button to clear the current data and upload a new file.
 - Includes sort by column
 
+  ![image](https://github.com/user-attachments/assets/dfa5147c-7612-4e4b-a48d-1d2da7a04880)
+
+
 ## Technologies Used
 - **React**: Frontend library used to build a responsive user interface.
 - **Axios**: HTTP client for making API requests to the backend server.
