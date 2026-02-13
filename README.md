@@ -8,7 +8,9 @@ This project is the frontend implementation for the Log Parsing project, built u
 - Includes a reset button to clear the current data and upload a new file.
 - Includes sort by column
 
-  ![image](https://github.com/user-attachments/assets/dfa5147c-7612-4e4b-a48d-1d2da7a04880)
+  <img width="777" height="624" alt="Screenshot 2026-02-13 at 3 54 57 PM" src="https://github.com/user-attachments/assets/c2e3d074-5e8d-4dea-9b7f-e826917269ff" />
+
+  <img width="781" height="528" alt="Screenshot 2026-02-13 at 3 57 28 PM" src="https://github.com/user-attachments/assets/9b640912-fdaa-438b-af9a-14dfc9fd1440" />
 
 
 ## Technologies Used
