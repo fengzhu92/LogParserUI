@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../LogParserAPI"
+		}
+	],
+	"settings": {
+		"FSharp.suggestGitignore": false
+	}
+}
